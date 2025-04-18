@@ -1,0 +1,1 @@
+__global__ int printf(const char* format)
